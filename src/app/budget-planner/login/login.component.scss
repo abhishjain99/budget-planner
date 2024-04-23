@@ -20,6 +20,7 @@ body {
   align-items: center;
   border-radius: 5px;
   color: #FFFFFF;
+  margin: -10px;
 }
 
 .login-container {
@@ -46,7 +47,7 @@ input[type="password"],
 input[type="text"] {
   width: 90%;
   padding: 15px;
-  border-radius: 6px;
+  border-radius: 5px;
   border: 1px solid #8642A1;
   background-color: #F5F5F5;
 }
@@ -61,7 +62,7 @@ button {
   width: 100%;
   padding: 15px;
   border: none;
-  border-radius: 6px;
+  border-radius: 5px;
   background: linear-gradient(135deg, #C02988, #8642A1);
   color: #FFFFFF;
   cursor: pointer;
